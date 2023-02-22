@@ -1,0 +1,11 @@
+#pragma once
+
+#define LED0 LINE_PIN12
+#define LED1 LINE_PIN26
+#define LED2 LINE_PIN25
+#define LED3 LINE_PIN24
+
+#undef LED_CAPS_LOCK_PIN
+#undef LED_NUM_LOCK_PIN
+#undef LED_SCROLL_LOCK_PIN
+#undef LED_COMPOSE_PIN
